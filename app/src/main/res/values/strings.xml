@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BanayatRyanExam1</string>
+    <string name="notesIco1">Personal Notes</string>
+    <string name="notesIco2">Office Notes</string>
+    <string name="notesIco3">Public Notes</string>
+    <string name="notesTitle1">Dogs</string>
+    <string name="notesTitle2">To-do</string>
+    <string name="notesTitle3">Shibe</string>
+    <string name="content1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="content2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="content3">Ruff ruff</string>
+</resources>
